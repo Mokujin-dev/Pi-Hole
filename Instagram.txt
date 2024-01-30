@@ -1,7 +1,8 @@
-# This blocklist helps Pi-hole's admin restrict access to instagram and its domains.
-# Curated from  sources online.
-# Last updated: 9 december 2019
-
+# Pi-Hole blocklist for Instagram and it's various domains.
+# Forked from outdated list created by https://github.com/gieljnssns/Social-media-Blocklists
+# Contributors: https://github.com/JacobOB1234
+# Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
+# Updated 1st June 2021
 
 0.0.0.0 api.instagram.com
 0.0.0.0	black.ish.instagram.com
@@ -64,5 +65,20 @@
 0.0.0.0	scontent.cdninstagram.com
 0.0.0.0	telegraph-ash.instagram.com
 0.0.0.0	white.ish.instagram.com
-0.0.0.0	www.instagram.com
 0.0.0.0	cdninstagram.com
+0.0.0.0 scontent-lht6-1.xx.fbcdn.net
+0.0.0.0 scontent-lht6-2.xx.fbcdn.net
+0.0.0.0 scontent-lhr8-1.xx.fbcdn.net
+0.0.0.0 scontent-lhr8-2.xx.fbcdn.net
+0.0.0.0 scontent-lht6-1.cdninstagram.com
+0.0.0.0 scontent-lht6-2.cdninstagram.com
+0.0.0.0 scontent-lhr8-1.cdninstagram.com
+0.0.0.0 scontent-lhr8-2.cdninstagram.com
+0.0.0.0 edge-chat.instagram.com
+0.0.0.0 instagram.c10r.facebook.com
+0.0.0.0 z-p42-instagram.c10r.facebook.com
+0.0.0.0 instagram.fncl1-1.fna.fbcdn.net
+0.0.0.0 scontent-man2-1.cdninstagram.com
+0.0.0.0 scontent-lcy1-1.cdninstagram.com
+#0.0.0.0 edge-mqtt.facebook.com is breaking Facebook groups and posts and Messenger
+#0.0.0.0 mqtt-mini.facebook.com
