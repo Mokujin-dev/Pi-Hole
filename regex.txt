@@ -1,0 +1,6 @@
+^.+(facebook.com|fbcdn.net).*\$
+^(.+\.)??(facebook|.*fb.+)\.(com|net)$
+^(.+\.)??(facebook|.*fb.+)\.(com|net|me)$
+^(.+\.)??(facebook|fb)\.(com|net|org|me)$
+^(.+\.)?(facebook|fb(cdn|sbx)?|tfbnw)\.(com|net)$
+^(.+\.)??(facebook|(t)?fb(nw)?(cdn|sbx)?)\..+$
