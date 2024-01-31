@@ -920,3 +920,5 @@
 0.0.0.0 z-m.facebook.com
 0.0.0.0 zh-cn.facebook.com
 0.0.0.0 zh-tw.facebook.com
+0.0.0.0	star.fallback.c10r.facebook.com
+0.0.0.0 chat-e2ee-mini.c10r.facebook.com
